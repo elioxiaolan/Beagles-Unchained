@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-An interactive website using Django and Python which allows dog lovers to register/login, browse dogs’ profiles, and make adoption inquiries.
+An interactive website that presents facts about beagle dogs to raise people’s awareness for achievement of laboratory dogs and provides a platform where dog lovers can register/login, browse dogs’ profiles, and drop DM to make adoption inquiries
 
 ## Tech Stack:
 
